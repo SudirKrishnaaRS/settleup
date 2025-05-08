@@ -6,7 +6,7 @@
 - Database: Convex
 - Authentication: Clerk
 
-## Local
+## Local Setup
 
 1. npm run dev
 2. npx convex dev
