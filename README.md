@@ -1,3 +1,22 @@
+# SettleUp
+
+## Project Stack
+
+- NextJS 15 (with React 19)
+- Database: Convex
+- Authentication: Clerk
+
+## Local
+
+1. npm run dev
+2. npx convex dev
+
+> NOTE: As this project uses React 19 with NextJS 15, some NPM packages fail to install, use the flag `--legacy-peer-deps`
+
+```bash
+    npm install packageName --leagcy-peer-deps
+```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
